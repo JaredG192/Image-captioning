@@ -62,7 +62,7 @@ This project is a deep learning-based image captioning model developed as part o
 
 The dataset consists of 8,000 images, each with 5 human-annotated captions.
 
-📥 Download the full dataset from **Kaggle**:  
+📥 Due to GitHub file size limits, the dataset is not included in this repository.
 👉 [Flickr8k Image Captioning Dataset](https://www.kaggle.com/datasets/adityajn105/flickr8k)
 
 
