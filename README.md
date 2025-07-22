@@ -71,8 +71,8 @@ The dataset consists of 8,000 images, each with 5 human-annotated captions.
 
 ## 👨‍💻 Authors
 
-**Jared Gonzalez**
-**A Sai Prasanth Reddy**
+**Jared Gonzalez**, 
+**A Sai Prasanth Reddy**, 
 **Tejaswi Chigurupati**
 
 
