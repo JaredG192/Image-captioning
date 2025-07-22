@@ -77,7 +77,7 @@ The dataset consists of 8,000 images, each with 5 human-annotated captions.
 
 
 California State University, San Bernardino  
-Bachelor in Science, Computer Science 
+Bachelor in Science, Computer Science,  
 Minor in Data Science  
 
 ---
